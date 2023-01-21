@@ -1,0 +1,4 @@
+repository "Space Shooter Redone"
+  path "/"
+    br "/main"
+    co "/main"
